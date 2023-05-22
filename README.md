@@ -22,5 +22,5 @@ If you're looking for a dedicated front-end developer who is passionate about th
 
 Thank you for taking the time to learn a little bit about me. Let's build amazing digital experiences together!
 
-## my linkedin Page
+# My Linkedin Page
 [My LinkedIn page](https://www.linkedin.com/in/fredrik-tokle-0994a023b/)
