@@ -21,3 +21,6 @@ Additionally, I have a deep passion for gaming. As a developer, I find inspirati
 If you're looking for a dedicated front-end developer who is passionate about their craft and committed to delivering exceptional results, I'd love to connect with you. Feel free to reach out through GitHub or any of the other contact methods listed in my profile.
 
 Thank you for taking the time to learn a little bit about me. Let's build amazing digital experiences together!
+
+## my linkedin Page
+[My LinkedIn page](https://www.linkedin.com/in/fredrik-tokle-0994a023b/)
