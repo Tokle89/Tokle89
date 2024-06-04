@@ -1,4 +1,20 @@
 ### Hi there 👋
+Hello there, I am Mikael Selstad 👋😊💻
+About me
+
+🔭 I am a former teacher gone developer, located in Nesoddtangen, outside Oslo, Norway.
+
+🌱 I decided to leave my job as a teacher after 8 years to pursue a new path in life. Currently finished my proffesional degree in front-end development at Noroff with straigh A`s- I am now looking for a job to continue my journey within web-development, Ux/UI and design. I started studying in August 2022.
+
+😊 Outside coding I like to play video games, lift heavy weights, collect Pokemon cards and cooking from scracth!
+Languages
+React  CSS  HTML  JavaScript  Git  Tailwind CSS  Jest  Cypress 
+Contributing
+
+Most of my repos are school projects, and it would be awesome if you would open a pull request if you want to play around with it.
+Follow me around the web
+
+LinkedIn Instagram Facebook Spotify Discord
 
 ### About me
 
