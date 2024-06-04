@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello there, I am Fredrik TOkle 👋😊💻
 
-##About me
+## About me
 
 🔭 I am a Metal worker gone front-end developer
 
@@ -15,7 +15,7 @@ Contributing
 
 Most of my repos are school projects, and it would be awesome if you would open a pull request if you want to play around with it.
 
-Feel free to checkout my portfolio website:
+## Feel free to checkout my portfolio website:
 
-[Fredrik Tokle](https://fredrik-tokle.netlify.app/)
+# [Fredrik Tokle](https://fredrik-tokle.netlify.app/)
 
