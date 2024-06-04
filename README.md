@@ -12,10 +12,10 @@ Hello there, I am Fredrik Tokle 👋😊💻
 ### My stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,tailwind,sass)](https://skillicons.dev)
 
-###Contributing
+### Contributing
 Most of my repositories are school projects. If you're interested in experimenting with them or making improvements, feel free to open a pull request. Your contributions would be greatly appreciated
 
 ### Feel free to checkout my portfolio website:
 
-#### [Fredrik Tokle](https://fredrik-tokle.netlify.app/)
+### [Fredrik Tokle](https://fredrik-tokle.netlify.app/)
 
