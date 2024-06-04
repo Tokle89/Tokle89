@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello there, I am Fredrik TOkle 👋😊💻
+Hello there, I am Fredrik Tokle 👋😊💻
 
 ### About me
 
